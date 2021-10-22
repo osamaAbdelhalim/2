@@ -1,0 +1,33 @@
+header{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../images/1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 350px;
+}
+.our-menu{
+    border-top: 5px solid #84d684;
+}
+.nav-menu{
+    list-style: none;
+}
+.nav-menu li{
+    display: inline-block;
+}
+#show{
+    height: 100px;
+}
+#news{
+    background-color: #EBEBEB;
+}
+.news1{
+    background-image: url(../images/image-29.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.news2{
+    background-image: url(../images/images.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
